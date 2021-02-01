@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781290517690",
+    "project_id": "ameen-blooddonation",
+    "storage_bucket": "ameen-blooddonation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781290517690:android:12c544557abaf3d20f3e83",
+        "android_client_info": {
+          "package_name": "com.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781290517690-7on9u42v2osnvu1imdjpsn6elkqoh97c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4llccF-gu0qpJJtqqpXbeiJrOH1vCXw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781290517690-7on9u42v2osnvu1imdjpsn6elkqoh97c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
